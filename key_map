@@ -1,0 +1,39 @@
+| Key          | Mode          | Action                   |
+| ------------ | ------------- | ------------------------ |
+| `gd`         | Normal        | Go to definition         |
+| `gD`         | Normal        | Go to declaration        |
+| `gr`         | Normal        | Show LSP references      |
+| `K`          | Normal        | Hover documentation      |
+| `<leader>rn` | Normal        | Rename symbol            |
+| `<leader>ca` | Normal        | Code actions             |
+| `[d`         | Normal        | Previous diagnostic      |
+| `]d`         | Normal        | Next diagnostic          |
+| `<leader>ff` | Normal        | Telescope: Find files    |
+| `<leader>fg` | Normal        | Telescope: Live grep     |
+| `<leader>fb` | Normal        | Telescope: Buffers       |
+| `<leader>fh` | Normal        | Telescope: Help tags     |
+| `<Tab>`      | Normal        | Next buffer              |
+| `<S-Tab>`    | Normal        | Previous buffer          |
+| `<leader>t`  | Normal        | Toggle terminal          |
+| `<leader>a`  | Normal        | Add file to Harpoon list |
+| `<leader>h`  | Normal        | Toggle Harpoon menu      |
+| `<leader>1`  | Normal        | Harpoon: Select file 1   |
+| `<leader>2`  | Normal        | Harpoon: Select file 2   |
+| `<leader>3`  | Normal        | Harpoon: Select file 3   |
+| `<leader>4`  | Normal        | Harpoon: Select file 4   |
+| `<leader>x`  | Normal        | Trouble: Diagnostics     |
+| `<leader>xs` | Normal        | Trouble: Symbols         |
+| `<leader>xr` | Normal        | Trouble: LSP references  |
+| `<leader>o`  | Normal        | Toggle symbols outline   |
+| `<leader>ih` | Normal        | Toggle inlay hints       |
+| `zc`         | Normal        | Close fold               |
+| `zo`         | Normal        | Open fold                |
+| `za`         | Normal        | Toggle fold              |
+| `zM`         | Normal        | Close all folds          |
+| `zR`         | Normal        | Open all folds           |
+| `gc`         | Normal/Visual | Toggle comment           |
+| `gb`         | Normal/Visual | Toggle block comment     |
+
+Disclaimer:  
+This keymap table was generated with the assistance of ChatGPT.  
+Please verify key behaviors inside Neovim using the built-in help system if needed.
